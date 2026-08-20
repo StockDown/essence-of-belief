@@ -8,3 +8,9 @@ body {
 h1 {
     font-size: 50;
 }
+
+button {
+    background-color: black;
+    color: black;
+    border: none;
+}
