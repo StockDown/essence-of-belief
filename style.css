@@ -20,4 +20,7 @@ body {
 
 
     cursor: pointer;
+    
+    h1 {
+    margin-bottom: 50px;
 }
